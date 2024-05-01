@@ -1,0 +1,21 @@
+{
+    "plugins": [{
+        "name": "QQ音乐",
+        "url": "https://raw.cachefly.998111.xyz/hwxlikemi/mfp/main/qq.js",
+        "version": "1.0.0"
+    }, {
+        "name": "网易云音乐",
+        "url": "https://raw.cachefly.998111.xyz/hwxlikemi/mfp/main/wy.js",
+        "version": "1.0.0"
+    }, {
+        "name": "咪咕音乐",
+        "url": "https://raw.cachefly.998111.xyz/hwxlikemi/mfp/main/mg.js",
+        "version": "1.0.0"
+    }, {
+        "name": "酷狗音乐",
+        "url": "https://raw.cachefly.998111.xyz/hwxlikemi/mfp/main/kg.js",
+        "version": "1.0.0"
+    }, {
+    
+]
+}
