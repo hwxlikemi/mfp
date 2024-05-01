@@ -1,2 +1,1 @@
-# mfp
-musicfreeplugins
+# musicfreeplugins
