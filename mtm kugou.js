@@ -1,4 +1,4 @@
-"use stric";
+"use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const axios_1 = require("axios");
 const cheerio_1 = require("cheerio");
